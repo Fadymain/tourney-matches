@@ -1,4 +1,4 @@
-const playaData = {
+const playerData = {
   "Disguised Lizard": {
     gamerTag: "Disguised Lizard",
     firstName: "Daria ",
@@ -36,4 +36,4 @@ const playaData = {
   }
 };
 
-export default playaData;
+export default playerData;
